@@ -1,4 +1,4 @@
-Done so far
+Done so far:
 
 Guessing Game - guess the 3 digit number, get hints similar to wordle
 
