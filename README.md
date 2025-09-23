@@ -7,3 +7,5 @@ Guessing Game - guess the 3 digit number, get hints similar to wordle
 Birthday Game - enter a number from 1-100, and generate that many birthdays to see if there's any matches
 
 Blackjack - is blackjack
+
+Bouncing Dvd - like it says, a dvd logo bounces around a screen. Confetti comes out when it hits a corner
