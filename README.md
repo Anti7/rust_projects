@@ -1,4 +1,6 @@
-Done so far:
+https://inventwithpython.com/blog/programming-ideas-beginners-big-book-python.html
+
+Projects done so far:
 
 Guessing Game - guess the 3 digit number, get hints similar to wordle
 
